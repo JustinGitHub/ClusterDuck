@@ -1,3 +1,5 @@
+# Next Lesson 3.3.4 Refactor
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
